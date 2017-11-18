@@ -47,9 +47,9 @@ public class UC04_A_MergeSortTest extends TestSuite {
 		int[] expectedOutput1 = {1, 2, 3, 4, 5, 6, 7};
 		Assert.assertArrayEquals(expectedOutput1, ms.getArr());
 	
-		ms.setArr(new int[]{6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6});
+		ms.setArr(new int[]{6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7});
 		ms.sort();
-		int[] expectedOutput2 = {-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6};
+		int[] expectedOutput2 = {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6};
 		Assert.assertArrayEquals(expectedOutput2, ms.getArr());
 	}
 	
