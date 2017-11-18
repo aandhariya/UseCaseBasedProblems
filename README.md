@@ -48,5 +48,5 @@
 7. Design a **custom concurrent HashMap** using lock splitting concept.
 
 ```
-**Note:** Each use case should have adequate JUnit test cases. Share all use case code with mentor as maven project.
+Note: Each use case should have adequate JUnit test cases. Share all use case code with mentor as maven project.
 ```
