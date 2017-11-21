@@ -1,4 +1,4 @@
-package com.sapient.UseCaseBasedProblems.basic;
+package com.abhi.UseCaseBasedProblems.basic;
 
 import java.util.LinkedList;
 import java.util.Queue;

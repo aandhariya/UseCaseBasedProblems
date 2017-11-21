@@ -1,10 +1,12 @@
-package com.sapient.UseCaseBasedProblems.basic;
+package com.abhi.UseCaseBasedProblems.basic;
 
 import static org.junit.Assert.assertEquals;
 
 import java.util.HashMap;
 
 import org.junit.Test;
+
+import com.abhi.UseCaseBasedProblems.basic.UC08_Sort_HashMap_By_Values;
 
 public class UC08_Sort_HashMap_By_ValuesTest {
 

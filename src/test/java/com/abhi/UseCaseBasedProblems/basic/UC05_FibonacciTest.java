@@ -1,8 +1,10 @@
-package com.sapient.UseCaseBasedProblems.basic;
+package com.abhi.UseCaseBasedProblems.basic;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import com.abhi.UseCaseBasedProblems.basic.UC05_Fibonacci;
 
 public class UC05_FibonacciTest {
 

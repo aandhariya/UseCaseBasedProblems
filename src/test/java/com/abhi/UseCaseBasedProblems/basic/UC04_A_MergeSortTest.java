@@ -1,7 +1,9 @@
-package com.sapient.UseCaseBasedProblems.basic;
+package com.abhi.UseCaseBasedProblems.basic;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import com.abhi.UseCaseBasedProblems.basic.UC04_A_MergeSort;
 
 import junit.framework.TestSuite;
 

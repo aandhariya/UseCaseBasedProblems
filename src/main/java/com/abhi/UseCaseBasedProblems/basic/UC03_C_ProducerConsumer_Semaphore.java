@@ -1,4 +1,4 @@
-package com.sapient.UseCaseBasedProblems.basic;
+package com.abhi.UseCaseBasedProblems.basic;
 
 import java.util.concurrent.Semaphore;
 public class UC03_C_ProducerConsumer_Semaphore {
