@@ -2,7 +2,7 @@ package com.abhi.UseCaseBasedProblems.advanced;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class UC02_CustomCountDownLatchDemo {
+public class UC02_A_CustomCountDownLatchDemo {
 
 	public static void main(String[] args) {
 		
