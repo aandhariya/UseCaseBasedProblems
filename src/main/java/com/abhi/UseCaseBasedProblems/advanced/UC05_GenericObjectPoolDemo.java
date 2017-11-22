@@ -20,7 +20,7 @@ public class UC05_GenericObjectPoolDemo {
 		cPool.release(c2);
 		
 		// This program will fail when someone will release the same object twice. It will insert one more object to queue.
-		// Need to restrict that
+		// Need to restrict that 
 		
 	}
 
