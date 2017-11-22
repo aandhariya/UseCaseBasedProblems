@@ -2,8 +2,6 @@ package com.abhi.UseCaseBasedProblems.advanced;
 
 import java.util.concurrent.LinkedBlockingQueue;
 
-import javax.management.RuntimeErrorException;
-
 public class UC05_GenericObjectPoolDemo {
 
 	public static void main(String[] args) {
